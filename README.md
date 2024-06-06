@@ -1,2 +1,3 @@
 # new_repo
-its my first git repository
+its my first git repository.
+its me Inderjeet Kaur.
